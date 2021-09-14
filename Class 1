@@ -43,3 +43,101 @@
    43  pwd
    44  cd ../var/
    45  history
+0 uname -a
+26 ls -lt
+53 ls -lt
+From Tatjana Solovjova to Everyone:  09:54 AM
+79 echo "Hello World!"
+  80 ls -lt
+  81 echo "Hello World!" > text.txt
+  82 ls -lt
+  83 cat text.txt
+  84 echo "12345" > text.txt
+  85 ls -lt
+  86 cat text.txt
+  87 echo "123456" > text.txt
+  88 ls -lt
+  89 cat text.txt
+  90 hexdump -C text.txt
+  91 ls -lt
+  92 cat text.txt
+  93 echo "7890" >> text.txt
+  94 ls -lt
+  95 cat text.txt
+  96 hexdump -C text.txt
+  97 echo "7890" >> text_.txt
+  98 ls -lt
+  99 cat text_.txt
+ 100 nano text.txt
+ 101 ls -lt
+ 102 cat text_cits.txt
+ 103 cat text_cits_cits.txt
+ 104 nano
+ 105 lslt
+106 ls -lt
+ 107 find . -newer start \! -newer stop
+ 108 ls -lt
+ 109 rm text*.*
+ 110 ls -lt
+ 111 rm *text*.*
+ 112 ls -lt
+ 113 nano test.txt
+ 114 ls -lt
+ 115 cat test.txt
+ 116 chmod 444 test.txt
+ 117 ls -lt test*.txt
+ 118 ls -lt *.txt
+ 119 ls -lt test.txt
+ 120 echo fvkjfksdlflsgkr >> test.txt
+ 121 ls -lt test.txt
+ 122 cat test.txt
+ 123 ls -lt test.txt
+ 124 nano test.txt
+ 125 ls -lt
+ 126 whoami
+ 127 ls -lt
+ 128 ls -lt test.txt
+ 129 chmod 744 a.out
+ 130 ls -lt test.txt
+ 131 ls -lt
+132 ls
+ 133 ls -lt
+ 134 nano script.sh
+ 135 echo $0
+ 136 whereis sh
+ 137 ls -lt /bin/sh
+ 138 ls -lt /bin/*sh*
+ 139 nano script.sh
+ 140 ls -lt
+ 141 cat script.sh
+ 142 ls
+ 143 script.sh
+ 144 ./script.sh
+ 145 chmod 744 script.sh
+ 146 ls -lt
+ 147 script.sh
+ 148 ./script.sh
+ 149 ls -lt
+ 150 cd ABC/
+ 151 ls -lt
+ 152 cat test.txt
+ 153 cd ..
+ 154 nano script.sh
+ 155 ls -lt
+ 156 rmdir ABC/
+ 157 rmdir --help
+ 158 rm ABC
+ 159 rm -r ABC
+From Tatjana Solovjova to Everyone:  09:54 AM
+160 ls -lt
+ 161 nano script.sh
+ 162 script.sh
+ 163 ls
+ 164 ls -lt /bin/ls
+ 165 ls -lt /bin/
+ 166 ls
+ 167 echo $PATH
+ 168 ls
+ 169 script.sh
+ 170 ls
+ 171 history
