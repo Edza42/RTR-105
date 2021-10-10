@@ -1,0 +1,23 @@
+#include <studio.h>
+
+int main(){
+
+char input_one;
+int c, k;
+printf("ievadiet_skaitli");
+scanf("%c",&input_one);
+
+for (c=31; c >= 0; c--)
+{
+ k = input_one >> c;
+ 
+ if (k & 1)
+  printf("1");
+ else
+  printf("0");
+}
+
+printf("\n");
+
+return 0;
+}
